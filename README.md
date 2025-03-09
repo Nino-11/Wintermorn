@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wintermorn
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning more and more about R, SQL, and Tableau.
-- 💞️ I’m looking to collaborate on anything that includes Data analysis, cleaning, visualization...
-- 📫 How to reach me ...hmmm...I am brand new to Github so I am not sure how the messaging works here.
+- 👋 Hi, I’m @Nino-11
+- 👀 I’m a Data Scientist open to collaborating on any project that I can add value to.
+- 🌱 I’m proficient in working with Python, SQL and other languages used in the field.
+- 💞️ I’m love everything rel;ated to applied statistics, data exploration, and scientific research in general.
+
 
 <!---
 Wintermorn/Wintermorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
